@@ -5,6 +5,10 @@ logo: logo.png
 markdown: kramdown
 pygments: true
 
+# always points to production site
+canonical: https://www.notalone.gov
+
+# any path prefix to apply, run with --baseurl="" in development
 baseurl: /campus
 
 kramdown:
