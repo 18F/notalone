@@ -6,8 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=0.75">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    
+
     <link href="{{ site.baseurl }}/static/css/style.css?c={{ site.cachebuster }}" rel="stylesheet">
+
+    <link rel="canonical" href="{{ site.canonical }}{{page.url }}" />
+
     <!--[if lte IE 7]>
       <style>body { display: none !important; }</style>
       <script type="text/javascript">
@@ -23,13 +26,13 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    
+
     <script src="{{ site.baseurl }}/static/js/min/jquery.min.js"></script>
   <!--  <script src="{{ site.baseurl }}/static/js/min/iecors.min.js"></script> -->
   <!--[if lte IE 9]>
   <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.0/jquery.xdomainrequest.min.js'></script>
   <![endif]-->
-    
+
   </head>
   <body>
     <div class="usa">An official website of the United States Government <img class="flag" src="{{ site.baseurl }}/static/img/us_flag_small.png" class="USA Flag" /></div>
@@ -127,7 +130,7 @@
             <a class="credit-title img oneistwomany" style="background-image:url('{{ site.baseurl }}/static/img/1is2many.png');" href="http://whitehouse.gov/1is2many">1is2 Many</a>
              In Partnership with <a href="http://whitehouse.gov/1is2many">www.whitehouse.gov/1is2many</a>
           </div>
-          
+
           <div class="credit">
             <a class="credit-title img eighteenf" style="background-image:url('{{ site.baseurl }}/static/img/18f.png');" href="https://18f.gsa.gov">18F</a>
             Made by <a href="https://18f.gsa.gov">18F</a> and <a href="http://whitehouse.gov/innovationfellows">Presidential Innovation Fellows</a>

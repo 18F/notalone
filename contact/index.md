@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 description: Information about how to access hotlines, give feedback, and contact the White House Task Force to Protect Students from Sexual Assault.
+permalink: /contact/
 ---
 
 
@@ -9,7 +10,7 @@ description: Information about how to access hotlines, give feedback, and contac
 
 #### The Office of the Vice President
 
-You may contact the Office of the Vice President via [email](malito:notalone@ovp.eop.gov). 
+You may contact the Office of the Vice President via [email](malito:notalone@ovp.eop.gov).
 
 
 #### U.S. Department of Education, Office for Civil Rights (OCR)
@@ -26,12 +27,12 @@ You may contact HHS via [email](malito:womenshealth@hhs.gov) or call 800-994-966
 
 **Civil Rights Division (CRT)**
 
-You may contact CRT via [email](mailto:education@usdoj.gov). 
+You may contact CRT via [email](mailto:education@usdoj.gov).
 You can also call CRT at 1-877-292-3804.
 
 **Office on Violence Against Women (OVW)**
 
-You may contact OVW via [email](malito:OVWinfo@usdoj.gov) 
+You may contact OVW via [email](malito:OVWinfo@usdoj.gov)
 or visit their [website](http://www.ovw.usdoj.gov/).
 
 
@@ -43,6 +44,6 @@ or visit their [website](http://www.ovw.usdoj.gov/).
 
 ## Feedback
 
-The White House Task Force to Protect Students from Sexual Assault strives to provide comprehensive and inclusive resources on how to prevent and respond to sexual assault on college and university campuses and in our schools. We appreciate your partnership in efforts to eliminate sexual violence. 
+The White House Task Force to Protect Students from Sexual Assault strives to provide comprehensive and inclusive resources on how to prevent and respond to sexual assault on college and university campuses and in our schools. We appreciate your partnership in efforts to eliminate sexual violence.
 
-Please contact [notalone@ovp.eop.gov](mailto:notalone@ovp.eop.gov) to send us your comments or report any problems you experienced finding information on our website. 
+Please contact [notalone@ovp.eop.gov](mailto:notalone@ovp.eop.gov) to send us your comments or report any problems you experienced finding information on our website.

@@ -2,6 +2,7 @@
 layout: default
 title: Resources
 description: A list of helpful resources inside and outside of government.
+permalink: /resources/
 ---
 ##Find a Service Near You
 
@@ -43,7 +44,7 @@ While numbers are difficult to estimate, immigrants and international students f
 
 Find publicly supported health services including health centers, mental health providers, family planning centers and substance abuse treatment providers.
 
-*	[Community health centers](http://findahealthcenter.hrsa.gov/)  
+*	[Community health centers](http://findahealthcenter.hrsa.gov/)
 *	[Family planning providers](http://www.hhs.gov/opa/)
 *	[Mental health providers](http://findtreatment.samhsa.gov/MHTreatmentLocator/faces/quickSearch.jspx)
 
@@ -53,7 +54,7 @@ This webpage includes information on: what rape and sexual assault are; health e
 
 [Health Cares About IPV](http://www.healthcaresaboutipv.org/)
 <br>
-Health Cares about IPV is a federally funded program that provides training and technical assistance to over 22,000 health care professionals working to implement best practices for treating intimate partner violence (IPV) and dating violence survivors, including new guidelines to screen for abuse and refer patients to services. 
+Health Cares about IPV is a federally funded program that provides training and technical assistance to over 22,000 health care professionals working to implement best practices for treating intimate partner violence (IPV) and dating violence survivors, including new guidelines to screen for abuse and refer patients to services.
 
 ### Prevention Programs
 {% include resources-additional.html role="additional" type="prevention-programs" %}
@@ -68,7 +69,7 @@ Health Cares about IPV is a federally funded program that provides training and 
 
 #### Citations
 <div class="cite" id="i">
-(i)	Balsam, K. F., Beauchaine, T. P., & Rothblum, E. D. (2005). Victimization over the life span: A comparison of lesbian, gay, bisexual, and heterosexual siblings. Journal of Consulting and Clinical 
+(i)	Balsam, K. F., Beauchaine, T. P., & Rothblum, E. D. (2005). Victimization over the life span: A comparison of lesbian, gay, bisexual, and heterosexual siblings. Journal of Consulting and Clinical
 Psychology, 73(3), 477‐487.
 </div>
 
@@ -81,6 +82,6 @@ Psychology, 73(3), 477‐487.
 </div>
 
 <div class="cite" id="iv">
-(iv)	Harrell, E. (2012). Crime Against Persons with Disabilities, 2009-2011 – Statistical Tables. Bureau of 
-Justice Statistics, U.S. Department of Justice. 
+(iv)	Harrell, E. (2012). Crime Against Persons with Disabilities, 2009-2011 – Statistical Tables. Bureau of
+Justice Statistics, U.S. Department of Justice.
 </div>

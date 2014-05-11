@@ -1,8 +1,10 @@
 ---
 layout: home
 subtitle: '"Perhaps most important, we need to keep saying to anyone out there who has ever been assaulted:  you are not alone. <br>We have your back.  I’ve got your back."<em class="citation">President Barack Obama, January 22, 2014</em>'
-description: Sexual assault resources and information for students, schools, and advocates. 
+description: Sexual assault resources and information for students, schools, and advocates.
+permalink: /
 ---
+
 <div class="top-message">
 Information for students, schools, and anyone interested in finding resources on how to respond to and prevent sexual assault on college and university campuses and in our schools. Click explore to find a crisis service, learn more about your rights and how to file a complaint, and view a map of resolved school-level enforcement activities.
 
@@ -24,10 +26,10 @@ Information for students, schools, and anyone interested in finding resources on
 </div>
 
 <div class="top-message">
-  
-NotAlone was launched in connection with the White House Task Force to Protect Students from Sexual Assault.  The Task Force was established on January 22, 2014 – and since then, thousands of people have shared their stories and ideas about how best to eliminate sexual assault on our campuses and schools.  
 
-Here’s our [report]({{ site.baseurl }}/assets/report.pdf). 
+NotAlone was launched in connection with the White House Task Force to Protect Students from Sexual Assault.  The Task Force was established on January 22, 2014 – and since then, thousands of people have shared their stories and ideas about how best to eliminate sexual assault on our campuses and schools.
+
+Here’s our [report]({{ site.baseurl }}/assets/report.pdf).
 
 </div>
 <br>
