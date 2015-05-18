@@ -339,7 +339,7 @@ Information about the roles and responsibilities of peer education in violence p
 <div class="section-context">
 ### Preventing Sexual Violence on College Campuses: Lessons from Research and Practice
 
-This document created by the Centers for Disease Control and Prevention describes the best practices in developing, selecting, and implementing prevention strategies with the highest chance of successfully changing sexual violence in communities. While we have a lot to learn about how best to stop campus sexual violence before it starts, there are important steps that college campuses can take now to better address sexual violence.
+This document created by the *Centers for Disease Control* and Prevention describes the best practices in developing, selecting, and implementing prevention strategies with the highest chance of successfully changing sexual violence in communities. While we have a lot to learn about how best to stop campus sexual violence before it starts, there are important steps that college campuses can take now to better **address sexual violence**.
 
 
 <div class="section-context-links">
