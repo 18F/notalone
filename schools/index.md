@@ -11,7 +11,7 @@ permalink: /schools/
 <div class="section-context-text">
 #### Questions and Answers on Title IX and Sexual Violence (2014)
 
-- In April 2014, the U.S. Department of Education’s Office for Civil Rights (OCR) issued a question-and-answer document to provide additional guidance to federally funded schools about their obligations under Title IX to address sexual violence.
+- In April 2014, the ED Office for Civil Rights (OCR) issued a question-and-answer document to provide additional guidance to federally funded schools about their obligations under Title IX to address sexual violence.
 - This guidance further clarifies the legal requirements under Title IX articulated in OCR’s 2011 Dear Colleague Letter on Sexual Violence and its 2001 Revised Sexual Harassment Guidance.
 -	Although some examples in this Q&A are applicable only to institutions of higher education, the legal obligations outlined in the letter also apply to elementary and secondary schools.
 
