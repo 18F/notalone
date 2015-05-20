@@ -92,7 +92,7 @@ permalink: /schools/
 
 ### Principles of Confidentiality
 
-Schools often struggle with balancing a survivor’s confidentiality and fulfilling their obligation to provide a safe educational environment for everyone by holding perpetrators accountable. But a few guiding principles should inform any reporting and confidentiality protocol: namely, confidentiality must give survivors choices and not shield a school from inaction. To the greatest extent possible, the survivor’s wishes should be respected, whether it be for a full investigation – or not.
+Schools often struggle with **balancing** a survivor’s confidentiality and fulfilling their obligation to provide a safe educational environment for everyone by holding perpetrators accountable. But a few guiding principles should inform any reporting and confidentiality protocol: namely, confidentiality must give survivors choices and not shield a school from inaction. To the greatest extent possible, the survivor’s wishes should be respected, whether it be for a full investigation – or not.
 
 It’s also true that there’s no one-size-fits-all model of survivor care. There must be options, which means that schools should make it clear up front who at the school must share what information with whom – and the circumstances in which a school may need to override a request for confidentiality and conduct an investigation to protect the greater school community.
 
