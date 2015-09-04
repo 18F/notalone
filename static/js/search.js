@@ -98,7 +98,7 @@ function GetURLParameter(sParam) {
   for (var i = 0; i < sURLVariables.length; i++) {
     var sParameterName = sURLVariables[i].split('=');
     if (sParameterName[0] == sParam) {
-      return decodeURIComponent(sParameterName[1].replace('+', ' '));
+      return decodeURIComponent(sParameterName[1].replace(/\+/g, ' '));
     }
   }
 }
