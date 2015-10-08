@@ -6,7 +6,7 @@
 - src: /static/js/min/service-locator.min.js
   pages:
     - Resources
-    
+
 - src: /static/bower_components/Leaflet.awesome-markers/dist/leaflet.awesome-markers.min.js
   pages:
     - Resources
@@ -19,11 +19,15 @@
 - src: /static/js/min/geolib.min.js
   pages:
     - Resources
-    
-- src: /static/js/min/search.min.js
+
+- src: /static/js/min/fuse.min.js
   pages:
     - Search
-    
+
+- src: /static/js/search.js
+  pages:
+    - Search
+
 - src: /static/js/min/key-terms.min.js
   pages:
     - Students
