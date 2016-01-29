@@ -21,7 +21,7 @@ NotAlone.gov includes information for students, schools, and anyone interested i
 
 Click below to find a crisis service, learn more about students' rights, identify schools' obligations to protect students from sexual assault, understand how to file a complaint with the federal government, and view a map of resolved school-level enforcement activities.
 
-Throughout this website the term, “school” refers to all public educational institutions and all schools that receive federal funds, including elementary and secondary schools (both traditional and charter), school districts, colleges, and universities. Sections of the website that are only applicable at the postsecondary or elementary and secondary school level add clarifying information.
+Throughout this website the term, “*school*” refers to all public educational institutions and all schools that receive federal funds, including elementary and secondary schools (both traditional and charter), school districts, colleges, and universities. Sections of the website that are only applicable at the postsecondary or elementary and secondary school level add clarifying information.
 
 NotAlone was launched in connection with the White House Task Force to Protect Students from Sexual Assault. The Task Force was established on January 22, 2014 – and since then, thousands of people have shared their stories and ideas about how best to eliminate sexual assault in schools. [On April 29, 2014, we released our first report, which can be viewed here](https://www.notalone.gov/assets/report.pdf).
 
