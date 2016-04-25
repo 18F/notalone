@@ -51,8 +51,13 @@ $(document).ready(function () {
           map.setView(new L.LatLng(zipLat, zipLng), 8);
         });     
     
-      // Next we'll query YQL to pull from the RAINN API. We need to do this as RAINN doesn't support CORS.
-       $.getJSON("//query.yahooapis.com/v1/public/yql?q=select%20*%20from%20json%20where%20url%3D%22https%3A%2F%2Ftest%3Atest%40api.rainn.org%2Fcenters%2Fv1%2Fcenters%2Fzip%2F" + zipcode + "%22&format=json&diagnostics=true")
+      $.ajax({
+        url: "https://api.rainn.org/centers/v1/centers/zip/" + zipcode,
+        headers: {
+          'Authorization': 'Basic dGVzdDp0ZXN0'
+        },
+        dataType: 'json'
+      })
         .done(function(json) {
           // Stop our loading stuff
           $(".status").remove();
@@ -71,7 +76,7 @@ $(document).ready(function () {
           }
       
           // Grab all the known services from YQL
-          var services = json.query.results.json.json;
+          var services = json;
       
           // Sort these by distance from the given ZIP
           services.sort(compare_distance);
