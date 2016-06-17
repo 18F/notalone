@@ -6,6 +6,7 @@
     {% if page.path contains "pages/" %}
     {
       "title": "{{ page.title | replace: '"', '\"' }}",
+      "permalink": "{{ page.permalink }}",
       "href": "{{ page.path }}"
     },
     {% endif %}
