@@ -208,7 +208,7 @@ On January 20, 2016, the Department of Justice’s Bureau of Justice Statistics 
 
 #### Highlights from the Campus Climate Survey Validation Study
 
-[These powerpoint slides](https://www.notalone.gov/assets/CCSVS-Slides.pdf  "Highlights from CCSVS") highlight key findings from the Campus Climate Survey Validation Study, with useful charts and graphs illustrating the rates of sexual assault of college students, to whom students report assaults, when assaults occur, and what aspects of campus "climate" are correlated with higher rates of sexual assault. The charts in these slides are all pulled from the Campus Climate Survey Validation Study.
+[These powerpoint slides](https://www.notalone.gov/assets/CCSVS-Slides.pdf "Highlights from CCSVS") highlight key findings from the Campus Climate Survey Validation Study, with useful charts and graphs illustrating the rates of sexual assault of college students, to whom students report assaults, when assaults occur, and what aspects of campus "climate" are correlated with higher rates of sexual assault. The charts in these slides are all pulled from the Campus Climate Survey Validation Study.
 
 #### Climate Surveys: Useful Tools to Help College or Universities in Their Efforts to Reduce and Prevent Sexual Assault
 
@@ -310,6 +310,15 @@ Program evaluation is a type of research. In some cases, external researchers or
 
 ## Resources for Institutions of Higher Education Only
 
+{% include div.html class="section-context" %}
+
+### Handbook for Campus Safety and Security Reporting
+
+The recently released Handbook for Campus Safety and Security Reporting was developed by the U.S. Department of Education to present step-by-step procedures, examples, and references for higher education institutions to follow in meeting the campus safety and security requirements of the Higher Education Act of 1965, as amended. This handbook replaces the 2011 version and includes information on how institutions can comply with the changes the Violence Against Women Reauthorization Act of 2013 made to the Clery Act.
+
+* [Review the Handbook for Campus Safety and Security Reporting](http://www2.ed.gov/admins/lead/safety/handbook.pdf)
+
+{% include div-close.html %}
 {% include div.html class="section-context" %}
 
 ### Understanding FERPA, the Clery Act, and Title IX
