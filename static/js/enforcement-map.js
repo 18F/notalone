@@ -10,10 +10,9 @@ $(document).ready(function() {
     var map = L.map('map', {
       scrollWheelZoom: false,
     }).setView([39.8282, -98.5795], 4);
-    L.tileLayer('https://otile{s}-s.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpg', {
-      attribution: 'Tiles Courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a>',
-      maxZoom: 18,
-      subdomains: [1,2,3,4]
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      maxZoom: 18
     }).addTo(map);
     L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
