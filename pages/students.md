@@ -88,13 +88,13 @@ Vice President Biden has delivered remarks at nearly one dozen Its On Us events 
 
 It’s On Us has created four public service announcements (PSAs).
 
-*  [It’s On Us: Sexual Assault PSA](https://www.youtube.com/watch?v=wNMZo31LziM) – September 18, 2014
+* [It’s On Us: Sexual Assault PSA](https://www.youtube.com/watch?v=wNMZo31LziM) – September 18, 2014
 
-*  [It’s On Us: One Thing](https://www.youtube.com/watch?v=Dx54t8h5Q5U) – September 1, 2015
+* [It’s On Us: One Thing](https://www.youtube.com/watch?v=Dx54t8h5Q5U) – September 1, 2015
 
-*  [What if Bears Killed One in Five People?](https://www.youtube.com/watch?v=LNVFPkmZTQ4) – November 5, 2015
+* [What if Bears Killed One in Five People?](https://www.youtube.com/watch?v=LNVFPkmZTQ4) – November 5, 2015
 
-*  [Team USA Join the It’s On Us Movement](https://www.youtube.com/watch?v=Oh1wpyVI97Q) – August 5, 2016
+* [Team USA Join the It’s On Us Movement](https://www.youtube.com/watch?v=Oh1wpyVI97Q) – August 5, 2016
 
 \
 Tips for preventing sexual assault as a bystander:
