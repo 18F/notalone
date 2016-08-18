@@ -361,7 +361,7 @@ Note that although elementary and secondary schools that receive federal funding
 {% include div-close.html %}
 {% include div.html class="section-context" %}
 
-### Interim and supportive measures for victims
+#### Interim and supportive measures for victims
 
 Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined.
 
@@ -390,7 +390,7 @@ Information about the roles and responsibilities of peer education in violence p
 {% include div-close.html %}
 {% include div.html class="section-context" %}
 
-### Preventing Sexual Violence on College Campuses: Lessons from Research and Practice
+#### Preventing Sexual Violence on College Campuses: Lessons from Research and Practice
 
 This document created by the Centers for Disease Control and Prevention describes the best practices in developing, selecting, and implementing prevention strategies with the highest chance of successfully changing sexual violence in communities. While we have a lot to learn about how best to stop campus sexual violence before it starts, there are important steps that college campuses can take now to better address sexual violence.
 
