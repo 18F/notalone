@@ -28,7 +28,7 @@ permalink: /students/
 
 * If you want to file a police report, you can call the police from the emergency room.
 
-* Ask about the [nearest rape crisis center](https://raw.githubusercontent.com/18f/notalone/gh-pages/resources/#find-a-service-near-you).
+* Ask about the [nearest rape crisis center]({{ site.baseurl }}/resources/#find-a-service-near-you).
 
 ### Days following an assault
 
@@ -44,7 +44,7 @@ Everyone is different, but it is good to understand [what you might expect](http
 
 * **Campus health centers, school nurses and counselors, and local clinics** can provide health services and help you find additional health resources including counseling.
 
-  * If you are concerned about confidentiality: Ask the person you want to talk to first about his/her obligation to disclose information you share (e.g., are they required to file a report?). [See](https://raw.githubusercontent.com/18f/notalone/gh-pages/students#will-what-i-share-remain-confidential) more information.
+  * If you are concerned about confidentiality: Ask the person you want to talk to first about his/her obligation to disclose information you share (e.g., are they required to file a report?). See [this link]({{ site.baseurl }}/students#will-what-i-share-remain-confidential) more information.
 
 * **Local rape crisis center staff members** are experienced and can help you navigate the process. They can help you make choices about reporting an assault, joining a support group, or finding a counselor.
 
