@@ -269,8 +269,6 @@ In spring 2015, the Centers for Disease Control (CDC) convened a Think Tank with
 
 * [Read the CDC's guidance on sexual violence prevention strategies](http://www.cdc.gov/violenceprevention/sexualviolence/prevention.html)
 
-#### 
-
 #### Establishing Prevention Programming: Strategic Planning for Campuses
 
 Preventing sexual assault in a school setting requires a thoughtful, well-planned approach. Schools have many factors to consider when deciding what types of programming to offer and how to determine if their efforts are effective. Researchers are still studying the most effective forms of prevention. This document outlines key points to consider in strategic planning for school sexual violence prevention. This process will look different for each school, but this document provides preliminary guidelines and questions to get the process started. This resource uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
