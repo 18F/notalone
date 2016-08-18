@@ -321,7 +321,25 @@ Program evaluation is a type of research. In some cases, external researchers or
 
 {% include div.html class="section-context" %}
 
-### Handbook for Campus Safety and Security Reporting
+#### Campus Safety and Security Data Analysis Cutting Tool
+
+This tool was launched in May 2016 by the Department of Education’s Office of Postsecondary Education and is designed to provide rapid, customized reports for public inquiries relating to campus crime and fire data under the Clery Act.
+
+* [Access the Campus Safety and Security Data Analysis Cutting Tool](http://ope.ed.gov/campussafety/#/)
+
+#### The Safe Place Resource Kit
+
+The Safe Place Resource Kit is a collection of guides and online trainings for college campus health staff caring for students who have experienced sexual assault and other trauma, developed by the Department of Education (ED)’s Office of Safe and Healthy Students. Designed specifically for health center staff who serve as primary care providers to students in higher education, the kit supports health center staff at all levels to understand the likelihood that they serve student patients and even work with colleagues affected by trauma, and the need to infuse trauma-sensitive approaches into their daily routine and create a care environment that supports students affected by trauma.
+
+* [Access the Safe Place Resource Kit](https://safesupportivelearning.ed.gov/Trauma-Sensitive-Campus-Health-Centers)
+
+#### The Center for Changing Our Campus Culture
+
+Launched in August 2015, this comprehensive online clearinghouse provides important resources for colleges and universities on sexual assault, domestic violence, dating violence, and stalking. The Center has gathered information from the Departments of Justice, Education, Health and Human Services, and the Centers for Disease Control and Prevention for campus administrators, faculty and staff, campus and community law enforcement, victim service providers, students, parents and other stakeholders as they work to change the culture on their campuses.
+
+* [Access the Center for Changing Our Campus Culture](http://www.changingourcampus.org/)
+
+#### Handbook for Campus Safety and Security Reporting
 
 The recently released Handbook for Campus Safety and Security Reporting was developed by the U.S. Department of Education to present step-by-step procedures, examples, and references for higher education institutions to follow in meeting the campus safety and security requirements of the Higher Education Act of 1965, as amended. This handbook replaces the 2011 version and includes information on how institutions can comply with the changes the Violence Against Women Reauthorization Act of 2013 made to the Clery Act.
 
@@ -330,7 +348,7 @@ The recently released Handbook for Campus Safety and Security Reporting was deve
 {% include div-close.html %}
 {% include div.html class="section-context" %}
 
-### Understanding FERPA, the Clery Act, and Title IX
+#### Understanding FERPA, the Clery Act, and Title IX
 
 Colleges and universities that participate in the federal student financial aid programs are subject to Title IX and the Clery Act, and must comply with the laws’ requirements that certain employees report incidents of sexual violence to school officials and notify students about the outcome when they file complaints of sexual violence.
 
@@ -343,7 +361,7 @@ Note that although elementary and secondary schools that receive federal funding
 {% include div-close.html %}
 {% include div.html class="section-context" %}
 
-### Interim and supportive measures for victims
+#### Interim and supportive measures for victims
 
 Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined.
 
@@ -372,7 +390,7 @@ Information about the roles and responsibilities of peer education in violence p
 {% include div-close.html %}
 {% include div.html class="section-context" %}
 
-### Preventing Sexual Violence on College Campuses: Lessons from Research and Practice
+#### Preventing Sexual Violence on College Campuses: Lessons from Research and Practice
 
 This document created by the Centers for Disease Control and Prevention describes the best practices in developing, selecting, and implementing prevention strategies with the highest chance of successfully changing sexual violence in communities. While we have a lot to learn about how best to stop campus sexual violence before it starts, there are important steps that college campuses can take now to better address sexual violence.
 
