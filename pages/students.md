@@ -72,7 +72,7 @@ Everyone is different, but it is good to understand [what you might expect](http
 
 * Keep an eye out for common reactions associated with traumatic events.
 
-* Become an advocate. [Join or start an organization](https://raw.githubusercontent.com/18f/notalone/gh-pages/resources).
+* Become an advocate. [Join or start an organization]({{ site.baseurl }}/resources).
 
 ## [How Can I Help as a Bystander?](http://itsonus.org/)
 
@@ -139,11 +139,11 @@ All students – women, girls, men, and boys; straight, lesbian, gay, bisexual, 
 
 The U.S. Department of Education’s Office for Civil Rights and the U.S. Department of Justice’s Civil Rights Division enforce Title IX in our nation’s schools. Sex-based discrimination in public schools also implicates legal rights under Title IV of the Civil Rights Act, which is enforced by the U.S. Department of Justice.
 
-* [Find out more about your rights under Title IX](https://raw.githubusercontent.com/18f/notalone/gh-pages/assets/know-your-rights.pdf)
+* [Find out more about your rights under Title IX]({{ site.baseurl }}/assets/know-your-rights.pdf)
 
-* [Conoce tus derechos: El Título IX requiere que tu escuela tome medidas contra la violencia sexual](https://raw.githubusercontent.com/18f/notalone/gh-pages/assets/know-your-rights-espanol.pdf)
+* [Conoce tus derechos: El Título IX requiere que tu escuela tome medidas contra la violencia sexual]({{ site.baseurl }}/assets/know-your-rights-espanol.pdf)
 
-* [Review school-by-school enforcement actions](https://raw.githubusercontent.com/18f/notalone/gh-pages/data#school-by-school-enforcement-map)
+* [Review school-by-school enforcement actions]({{ site.baseurl }}/data#school-by-school-enforcement-map)
 
 {% include div-close.html %}
 {% include div.html class="section-context-text" %}
@@ -176,7 +176,7 @@ If you believe you are a victim of sex-based discrimination by, in, or under an 
 
 If you file a complaint of sex-based discrimination with the DOJ, it can also be reviewed under Title IV of the Civil Rights Act of 1964, which provides similar protections to Title IX at all public schools.
 
-[See more information about filing complaints with the Departments of Justice and Education.](https://raw.githubusercontent.com/18f/notalone/gh-pages/assets/how-to-file-a-complaint.pdf)
+[See more information about filing complaints with the Departments of Justice and Education.]({{ site.baseurl }}/assets/how-to-file-a-complaint.pdf)
 
 {% include div-close.html %}
 {% include div.html class="section-context-text" %}
