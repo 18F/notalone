@@ -231,6 +231,15 @@ Note: while this document is focused on postsecondary institutions, public schoo
 
 {% include div.html class="section-context-text" %}
 
+#### The College Sexual Assault Policy and Prevention Initiative
+
+This initiative was launched in July 2016 by the Department for Health and Human Services. Awards were made to nine grantees who are committed to working with colleges and universities to influence and implement policies and prevention strategies based on the recommendations from the White House Task Force on Campus Sexual Assault. This three-year initiative will award grantees between $100,000 and $250,000 annually. The grantees are: Futures Without Violence, Georgia Independent College Association, Inc., Guam Coalition Against Sexual Assault & Family Violence, Indiana Coalition to End Sexual Assault, Men Can Stop Rape, North Carolina Coalition Against Sexual Assault, Texas Women’s University, University of Kansas Center for Research, Inc., and University of New Hampshire.
+
+* [Learn more about the College Sexual Assault Policy and Prevention Initiative](http://sites.ed.gov/whhbcu/2016/02/05/funding-opportunity-announcement-college-sexual-assault-policy-and-prevention-initiative/)
+
+{% include div-close.html %}
+{% include div.html class="section-context-text" %}
+
 #### Bystander-Focused Prevention of Sexual Violence
 
 Bystander intervention is a sexual assault prevention strategy that encourages witnesses to take safe action when they see a situation that might lead to sexual assault, and to support victims after an incident. Bystander intervention shows promise as a strategy to prevent sexual assault, including in schools. The Centers for Disease Control and Prevention found that bystander strategies may hold promise for the prevention of sexual assault, but more evaluation is needed. This document describes many different bystander programs used around the country and their common components. It also discusses how to deliver bystander education, and challenges to bystander action.
