@@ -327,23 +327,17 @@ This tool was launched in May 2016 by the Department of Education’s Office of 
 
 * [Access the Campus Safety and Security Data Analysis Cutting Tool](http://ope.ed.gov/campussafety/#/)
 
-#### 
-
 #### The Safe Place Resource Kit
 
 The Safe Place Resource Kit is a collection of guides and online trainings for college campus health staff caring for students who have experienced sexual assault and other trauma, developed by the Department of Education (ED)’s Office of Safe and Healthy Students. Designed specifically for health center staff who serve as primary care providers to students in higher education, the kit supports health center staff at all levels to understand the likelihood that they serve student patients and even work with colleagues affected by trauma, and the need to infuse trauma-sensitive approaches into their daily routine and create a care environment that supports students affected by trauma.
 
 * [Access the Safe Place Resource Kit](https://safesupportivelearning.ed.gov/Trauma-Sensitive-Campus-Health-Centers)
 
-#### 
-
 #### The Center for Changing Our Campus Culture
 
 Launched in August 2015, this comprehensive online clearinghouse provides important resources for colleges and universities on sexual assault, domestic violence, dating violence, and stalking. The Center has gathered information from the Departments of Justice, Education, Health and Human Services, and the Centers for Disease Control and Prevention for campus administrators, faculty and staff, campus and community law enforcement, victim service providers, students, parents and other stakeholders as they work to change the culture on their campuses.
 
 * [Access the Center for Changing Our Campus Culture](http://www.changingourcampus.org/)
-
-#### 
 
 #### Handbook for Campus Safety and Security Reporting
 
