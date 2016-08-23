@@ -226,8 +226,6 @@ Note: while this document is focused on postsecondary institutions, public schoo
 
 * [Review the guide to conducting climate surveys](https://raw.githubusercontent.com/18f/notalone/gh-pages/assets/ovw-climate-survey.pdf)
 
-### 
-
 {% include div-close.html %}
 {% include div-close.html %}
 
