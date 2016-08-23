@@ -444,7 +444,7 @@ The Office for Civil Rights (OCR) may open investigations at colleges and univer
 
 * [A complete list of published OCR resolutions](http://www2.ed.gov/about/offices/list/ocr/frontpage/caseresolutions/m-sex-cr.html)
 
-Department of Justice’s Civil Rights Division (CRT) Resolved Cases
+### Department of Justice’s Civil Rights Division (CRT) Resolved Cases
 
 The Civil Rights Division (CRT) may open investigations at colleges and universities to examine compliance with Title IX, Title IV, and other federal laws, and to consider allegations that the schools mishandled sexual assault cases.
 
