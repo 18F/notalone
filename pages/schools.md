@@ -8,6 +8,14 @@ permalink: /schools/
 
 {% include div.html class="section-context" %}
 
+### The Clery Act
+
+#### Section 304 of the Violence Against Women Reauthorization Act of 2013
+
+* Enacted in March 2013, Section 304 of the Violence Against Women Reauthorization Act of 2013 amended the Clery Act to mandate extensive "primary prevention and awareness programs" and expanded the scope of this legislation in terms of reporting, response, and prevention education requirements around rape, non-stranger rape, domestic violence, dating violence, sexual assault, and stalking.
+
+* [Read more about the Clery Act and campus safety reporting](http://ope.ed.gov/campussafety/#/)
+
 ### Title IX Compliance Requirements
 
 {% include div.html class="section-context-text" %}
@@ -98,14 +106,6 @@ permalink: /schools/
 
 
 * [Read the guidance on sexual harassment](http://www2.ed.gov/about/offices/list/ocr/docs/shguide.pdf)
-
-### The Clery Act
-
-#### Section 304 of the Violence Against Women Reauthorization Act of 2013
-
-Enacted in March 2013, Section 304 of the Violence Against Women Reauthorization Act of 2013 amended the Clery Act to mandate extensive "primary prevention and awareness programs" and expanded the scope of this legislation in terms of reporting, response, and prevention education requirements around rape, non-stranger rape, domestic violence, dating violence, sexual assault, and stalking.
-
-* [Read more about the Clery Act and campus safety reporting](http://ope.ed.gov/campussafety/#/)
 
 {% include div-close.html %}
 {% include div-close.html %}
