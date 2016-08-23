@@ -442,7 +442,7 @@ On January 20, 2016, the Department of Justice’s Bureau of Justice Statistics 
 
 The Office for Civil Rights (OCR) may open investigations at colleges and universities to examine compliance with Title IX and to consider allegations that the schools mishandled sexual assault cases.
 
-* [A complete list of published OCR resolutions](http://www2.ed.gov/about/offices/list/ocr/frontpage/caseresolutions/m-sex-cr.html)
+* [A complete list of published OCR resolutions](http://find.ed.gov/search?client=edgov_StyleSheet_frontend&site=default_collection&output=xml_no_dtd&proxystylesheet=edgov_StyleSheet_frontend&proxyreload=1&as_sitesearch=www2.ed.gov%2Fabout%2Foffices%2Flist%2Focr%2Fdocs%2Finvestigations%2Fmore&getfields=Title&as_q=)
 
 ### Department of Justice’s Civil Rights Division (CRT) Resolved Cases
 
