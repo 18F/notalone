@@ -417,3 +417,35 @@ A campus-wide approach to sexual violence and explore topics such as evaluating 
 * [Review the Assessing Campus Readiness Manual](http://www.pcar.org/sites/default/files/file/CampusWholeBook_Web.pdf)
 
 {% include div-close.html %}
+
+## School Climate Surveys
+
+### ED School Climate Surveys
+
+A new, free platform of web-based school climate surveys that allows schools to perform sophisticated analyses of school climate was released in March 2016 by the Department of Education’s (ED) Office of Safe and Healthy Students. These surveys enable schools to assess conditions for learning that range from safety to the quality of the instructional environment. The platform includes climate surveys for middle schools, high schools, and colleges & universities.
+
+* [Access the ED School Climate Surveys platform](https://safesupportivelearning.ed.gov/edscls)
+
+### Campus Climate Survey Validation Study
+
+On January 20, 2016, the Department of Justice’s Bureau of Justice Statistics (BJS) released the Campus Climate Survey Validation Study, which reports the results of a nine-school pilot test that was conducted to develop a campus climate survey that collects school-level data on sexual victimization of undergraduate students. BJS also provided a revised, modular survey instrument that schools can use to create their own climate surveys. The groundbreaking report describes survey methodology; presents estimates of the prevalence and incidence of sexual assault during the 2014–15 academic year and since entering college; examines the relationship between measures of campus climate and rates of sexual victimization; and makes recommendations for conducting campus climate surveys.
+
+* [Read the Campus Climate Survey Validation Study](http://www.bjs.gov/content/pub/pdf/ccsvsftr.pdf)
+
+* [Access the free, revised modular survey instrument](https://www.notalone.gov/assets/RevisedInstrumentModules_1_21_16_cleanCombined_psg.pdf)
+
+* [See PowerPoint slides summarizing key findings](https://www.notalone.gov/assets/CCSVS-Slides.pdf)
+
+## Resolved Federal Investigations
+
+### Department of Education’s Office for Civil Rights (OCR) Resolutions
+
+The Office for Civil Rights (OCR) may open investigations at colleges and universities to examine compliance with Title IX and to consider allegations that the schools mishandled sexual assault cases.
+
+* [A complete list of published OCR resolutions](http://www2.ed.gov/about/offices/list/ocr/frontpage/caseresolutions/m-sex-cr.html)
+
+Department of Justice’s Civil Rights Division (CRT) Resolved Cases
+
+The Civil Rights Division (CRT) may open investigations at colleges and universities to examine compliance with Title IX, Title IV, and other federal laws, and to consider allegations that the schools mishandled sexual assault cases.
+
+* [A complete list of published CRT resolutions](https://www.justice.gov/crt/educational-opportunities-cases)
