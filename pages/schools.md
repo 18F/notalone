@@ -99,6 +99,8 @@ permalink: /schools/
 
 * [Read the guidance on sexual harassment](http://www2.ed.gov/about/offices/list/ocr/docs/shguide.pdf)
 
+### 
+
 ### The Clery Act
 
 #### Section 304 of the Violence Against Women Reauthorization Act of 2013
